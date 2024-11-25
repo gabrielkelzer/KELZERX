@@ -215,20 +215,20 @@ banner() {
 	{ sleep 1; clear; }
 	cat <<- EOF
 	${COR1}		
-${COR1}______________,ooOOOOOo,
-${COR1}___________,oO88*___,ooooooo,,,
-${COR1}_________.,O88*___oO888_____****
-${COR1}_______.oO88*_oO88*
-${COR1}______.oO88*o888*
-${COR1}_____.oO8oO88*
-${COR1}_____oOo8888*
-${COR1}_____OO88888.
-${COR1}____MXXXXXXMMx
-${COR1}___MX0tttxXXXXXMx
+${COR1}              ,ooOOOOOo,
+${COR1}           ,oO88*   ,ooooooo,,,
+${COR1}         .,O88*   oO888.    ****
+${COR1}       .oO88*_oO88*
+${COR1}      .oO88*o888*
+${COR1}     .oO8oO88*
+${COR1}     oOo8888*
+${COR1}     OO88888.
+${COR1}    MXXXXXXMMx
+${COR1}   MX0tttxXXXXXMx
 ${COR1}_.MXXXXXXMXXXXXMMx____________,,xxxxxxx,,
 ${COR1}WMXXXMMXXXXXXXXXXMMMMMmmmMMXXXXXXMM
 ${COR1}_W*M*__*MXXXXXXXXXXXXMMMXXXXMXXXXXXXXXMM
-${COR1}________.*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
+${COR1}        .*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
 ${COR1}_________.*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
 ${COR1}___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
 ${COR1}____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
