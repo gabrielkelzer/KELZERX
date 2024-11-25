@@ -214,34 +214,34 @@ sobre_banner() {
 banner() {
 	{ sleep 1; clear; }
 	cat <<- EOF
-	${COR0}		
-______________,ooOOOOOo,
-___________,oO88*___,ooooooo,,,
-_________.,O88*___oO888_____****
-_______.oO88*_oO88*
-______.oO88*o888*
-_____.oO8oO88*
-_____oOo8888*
-_____OO88888.
-____MXXXXXXMMx
-___MX0tttxXXXXXMx
-_.MXXXXXXMXXXXXMMx____________,,xxxxxxx,,
-WMXXXMMXXXXXXXXXXMMMMMmmmMMXXXXXXMM
-_W*M*__*MXXXXXXXXXXXXMMMXXXXMXXXXXXXXXMM
-________.*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
-_________.*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
-___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
-____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
-_____________*MXXXXXXXXMXXXXXMXXXXXXXMM
-______________*MXXXXXMMMMMMMMXXXXX*MM
-_______________*XXXXXM_________.MXXXX.*MM
-________________XXXXM*__________.MXXx.*MMII
-________________.XXXM*___________.MXXx.*MM
-________________.XX.M*____________.MXX*.MI
-________________.XX.M_____________XXX_MI
-________________.XX.MI____________XXX.MII
-________________XXI///____________XXII_///
-_______________/////______________////   KELZER-X
+	${COR1}		
+${COR1}______________,ooOOOOOo,
+${COR1}___________,oO88*___,ooooooo,,,
+${COR1}_________.,O88*___oO888_____****
+${COR1}_______.oO88*_oO88*
+${COR1}______.oO88*o888*
+${COR1}_____.oO8oO88*
+${COR1}_____oOo8888*
+${COR1}_____OO88888.
+${COR1}____MXXXXXXMMx
+${COR1}___MX0tttxXXXXXMx
+${COR1}_.MXXXXXXMXXXXXMMx____________,,xxxxxxx,,
+${COR1}WMXXXMMXXXXXXXXXXMMMMMmmmMMXXXXXXMM
+${COR1}_W*M*__*MXXXXXXXXXXXXMMMXXXXMXXXXXXXXXMM
+${COR1}________.*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
+${COR1}_________.*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
+${COR1}___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
+${COR1}____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
+${COR1}_____________*MXXXXXXXXMXXXXXMXXXXXXXMM
+${COR1}______________*MXXXXXMMMMMMMMXXXXX*MM
+${COR1}_______________*XXXXXM_________.MXXXX.*MM
+${COR1}________________XXXXM*__________.MXXx.*MMII
+${COR1}________________.XXXM*___________.MXXx.*MM
+${COR1}________________.XX.M*____________.MXX*.MI
+${COR1}________________.XX.M_____________XXX_MI
+${COR1}________________.XX.MI____________XXX.MII
+${COR1}________________XXI///____________XXII_///
+${COR1}_______________/////______________////   KELZER-X
 		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}VERSÃO : ${COR0}1.0
 		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}SCRIPT CRIADO POR: ${COR0}Gabriel Kelzer
 		${COR2}
