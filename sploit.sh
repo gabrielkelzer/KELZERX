@@ -229,16 +229,16 @@ ${COR1}_.MXXXXXXMXXXXXMMx____________,,xxxxxxx,,
 ${COR1}WMXXXMMXXXXXXXXXXMMMMMmmmMMXXXXXXMM
 ${COR1}_W*M*__*MXXXXXXXXXXXXMMMXXXXMXXXXXXXXXMM
 ${COR1}        .*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
-${COR1}_________.*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
-${COR1}___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
-${COR1}____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
-${COR1}_____________*MXXXXXXXXMXXXXXMXXXXXXXMM
-${COR1}______________*MXXXXXMMMMMMMMXXXXX*MM
-${COR1}_______________*XXXXXM.        .MXXXX.*MM
-${COR1}________________XXXXM*          .MXXx.*MMII
-${COR1}________________.XXXM*           .MXXx.*MM
-${COR1}________________.XX.M*            .MXX*.MI
-${COR1}________________.XX.M.            XXX_MI
+${COR1}         .*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
+${COR1}           *MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
+${COR1}            *MXXXXXXXXXMXXXXMXXXXXXXXXMM
+${COR1}             *MXXXXXXXXMXXXXXMXXXXXXXMM
+${COR1}               *MXXXXXMMMMMMMMXXXXX*MM
+${COR1}               *XXXXXM.        .MXXXX.*MM
+${COR1}                XXXXM*          .MXXx.*MMII
+${COR1}                .XXXM*           .MXXx.*MM
+${COR1}                .XX.M*            .MXX*.MI
+${COR1}                .XX.M.            XXX_MI
 ${COR1}                .XX.MI.           XXX.MII
 ${COR1}                XXI///            XXII_///
 ${COR1}               /////              ////   KELZER-X
