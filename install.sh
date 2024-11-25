@@ -73,10 +73,11 @@ mini() {
 	{ sleep 2; }
 	echo ""
 	echo ""
-	echo "${COR1} [ ${COR5}+ ${COR1}]${COR0} PARA CONTINUAR USE '${COR2} bash sploit.sh ${COR0}'..."
+	echo "${COR1} [ ${COR5}+ ${COR1}]${COR0} USE bash sploit.sh ou'${COR2} aguarde 2 segundos ${COR0}'..."
 	echo ""
 	echo ""
-	echo ""
+	{ sleep 2; }
+
 }
 
 banner
