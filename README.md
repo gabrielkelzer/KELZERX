@@ -3,16 +3,16 @@
 	#			    #
 	#	 MODO DE USO	    #
 	#	     DO		    #
-	#        TERMUXSPLOIT	    #
+	#        KELZERX	    #
 	#			    #
 	#---------------------------#
 
 
 #PARA USAR NO TERMUX SIGA OS PASSOS:
 
-	1) git clone https://github.com/victor751/Termux-Sploit
+	1) git clone https://github.com/gabrielkelzer/KELZERX
 	
-	2) cd Termux-Sploit
+	2) cd KEZERX
 
 	3) chmod +x *
 
