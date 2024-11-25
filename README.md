@@ -3,7 +3,7 @@
 	#			    #
 	#	 MODO DE USO	    #
 	#	     DO		    #
-	#        KELZERX	    #
+	#        KELZER X	    #
 	#			    #
 	#---------------------------#
 
