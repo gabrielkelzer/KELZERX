@@ -169,10 +169,10 @@ sobre_banner() {
 		${COR1}		${COR0}Versão:${COR2} 1.0
 		${COR1}	        ${COR0}Script criado por: ${COR2}Victor Silva
 		${COR1}
-		${COR1} ${COR6}Autor ${COR3}   :  ${COR5}Victor Silva ${COR0}[ ${COR3}victor751 ${COR0}]
-		${COR1} ${COR6}Github ${COR3}  :  ${COR5}https://github.com/victor751
-		${COR1} ${COR6}Facebook ${COR3}:  ${COR5}Victor Silva IV
-		${COR1} ${COR6}Whatsapp ${COR3}:  ${COR5}Wa.me/+5592993684405
+		${COR1} ${COR6}Autor ${COR3}   :  ${COR5}Gabriel Kelzer ${COR0}[ ${COR3}Gabrielkelzerofc ${COR0}]
+		${COR1} ${COR6}Github ${COR3}  :  ${COR5}https://github.com/gabrielkelzer
+		${COR1} ${COR6}Facebook ${COR3}:  ${COR5}Gabriel Kelzer
+		${COR1} ${COR6}Whatsapp ${COR3}:  ${COR5}Wa.me/+5591993029407
 		${COR1} ${COR6}Versão ${COR3}  :  ${COR5}1.0
 		${COR1}
 
@@ -214,30 +214,36 @@ sobre_banner() {
 banner() {
 	{ sleep 1; clear; }
 	cat <<- EOF
-		${COR0}
-		${COR0}+-------------------------------------------------------+
-		${COR0}|                AUTOR: VICTOR SILVA                    |
-		${COR0}+---------------------------+---------------------------+
-		${COR0}|${COR4}      __________________   ${COR0}|                           ${COR0}|
-		${COR0}|${COR5}  ==c${COR4}(______(${COR5}o${COR4}(______(_${COR5}()  ${COR0}| ${COR2}|""""""""""""|======[${COR1}***  ${COR0}|
-		${COR0}|${COR4}             )${COR5}=${COR4}\           ${COR0}| ${COR2}|   ${COR0}TERMUX   ${COR2}\            ${COR0}|
-		${COR0}|${COR4}            // \\           ${COR0}| ${COR2}|_____________\_______    ${COR0}|
-		${COR0}|${COR4}           //   \\          ${COR0}| ${COR2}|==[${COR0}msf >${COR2}]============\   ${COR0}|
-		${COR0}|${COR4}          //     \\         ${COR0}| ${COR2}|______________________\  ${COR0}|
-		${COR0}|${COR4}         //${COR0} LINUX ${COR4}\\        ${COR0}| ${COR2}\(@)(@)(@)(@)(@)(@)(@)/   ${COR0}|
-		${COR0}|${COR4}        //         \\       ${COR0}|  ${COR2}*********************    ${COR0}|
-		${COR0}+---------------------------+---------------------------+
-		${COR0}|      o O o                ${COR0}|        ${COR5}\'\/\/\/'/         ${COR0}|
-		${COR0}|              o O          ${COR0}|         ${COR5})${COR0}======${COR5}(          ${COR0}|
-		${COR0}|                 o         ${COR0}|       ${COR5}.'  ${COR0}HACK  ${COR5}'.        ${COR0}|
-		${COR0}| ${COR1}|^^^^^^^^^^^^^^|l___      ${COR0}|      ${COR5}/    ${COR2}_||__   ${COR5}\       ${COR0}|
-		${COR0}| ${COR1}|   ${COR0}METASPLOIT   ${COR1}|${COR3}""\ ${COR1}___,${COR0}|     ${COR5}/    ${COR2}(_||_     ${COR5}\      ${COR0}|
-		${COR0}| ${COR1}|________________|__|)__| ${COR0}|    ${COR5}|     ${COR2}__||_)     ${COR5}|     ${COR0}|
-		${COR0}| ${COR1}|(@)(@)"""**|(@)(@)**|(@) ${COR0}|    ${COR5}"       ${COR2}||       ${COR5}"     ${COR0}|
-		${COR0}|  ${COR5}= = = = = = = = = = = =  ${COR0}|     ${COR5}'--------------'      ${COR0}|
-		${COR0}+---------------------------+---------------------------+
+	${COR0}		
+______________,ooOOOOOo,
+___________,oO88*___,ooooooo,,,
+_________.,O88*___oO888_____****
+_______.oO88*_oO88*
+______.oO88*o888*
+_____.oO8oO88*
+_____oOo8888*
+_____OO88888.
+____MXXXXXXMMx
+___MX0tttxXXXXXMx
+_.MXXXXXXMXXXXXMMx____________,,xxxxxxx,,
+WMXXXMMXXXXXXXXXXMMMMMmmmMMXXXXXXMM
+_W*M*__*MXXXXXXXXXXXXMMMXXXXMXXXXXXXXXMM
+________.*MXXXMXXXXXXXMMXXXXMXXXXXXXXXXMM
+_________.*MXMMXXXXXXXXMXXXMXXXXXXXXXXXMMI
+___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
+____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
+_____________*MXXXXXXXXMXXXXXMXXXXXXXMM
+______________*MXXXXXMMMMMMMMXXXXX*MM
+_______________*XXXXXM_________.MXXXX.*MM
+________________XXXXM*__________.MXXx.*MMII
+________________.XXXM*___________.MXXx.*MM
+________________.XX.M*____________.MXX*.MI
+________________.XX.M_____________XXX_MI
+________________.XX.MI____________XXX.MII
+________________XXI///____________XXII_///
+_______________/////______________////   KELZER-X
 		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}VERSÃO : ${COR0}1.0
-		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}SCRIPT CRIADO POR: ${COR0}VICTOR SILVA
+		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}SCRIPT CRIADO POR: ${COR0}Gabriel Kelzer
 		${COR2}
 		${COR2}
 		${COR2}
