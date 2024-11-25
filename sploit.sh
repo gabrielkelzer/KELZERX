@@ -142,13 +142,13 @@ instalar_apktool() {
 	echo "${COR2}[ ${COR4}+ ${COR2}]${COR2} INCIANDO A INSTALAÇÃO DO APKTOOL ${COR2}[ ${COR4}+ ${COR2}]${COR2}"
 	sleep 2;
 	echo ""
-		if [[ -e /data/data/com.termux/files/home/Termux-Sploit/apktool.jar ]]; then
-			cp /data/data/com.termux/files/home/Termux-Sploit/apktool.jar /data/data/com.termux/files/usr/bin
+		if [[ -e /data/data/com.termux/files/home/KELZERX/apktool.jar ]]; then
+			cp /data/data/com.termux/files/home/KELZERX/apktool.jar /data/data/com.termux/files/usr/bin
 			cd /data/data/com.termux/files/usr/bin/
 			chmod +x *
 		fi
-		if [[ -e /data/data/com.termux/files/home/Termux-Sploit/apktool ]]; then
-                        cp /data/data/com.termux/files/home/Termux-Sploit/apktool /data/data/com.termux/files/usr/bin
+		if [[ -e /data/data/com.termux/files/home/KELZERX/apktool ]]; then
+                        cp /data/data/com.termux/files/home/KELZERX/apktool /data/data/com.termux/files/usr/bin
                         cd /data/data/com.termux/files/usr/bin/
                         chmod +x *
                 fi
