@@ -234,14 +234,14 @@ ${COR1}___________*MMXXXXXXXXXMXXXMXXXXXXXXXXMMI
 ${COR1}____________*MXXXXXXXXXMXXXXMXXXXXXXXXMM
 ${COR1}_____________*MXXXXXXXXMXXXXXMXXXXXXXMM
 ${COR1}______________*MXXXXXMMMMMMMMXXXXX*MM
-${COR1}_______________*XXXXXM_________.MXXXX.*MM
-${COR1}________________XXXXM*__________.MXXx.*MMII
-${COR1}________________.XXXM*___________.MXXx.*MM
-${COR1}________________.XX.M*____________.MXX*.MI
-${COR1}________________.XX.M_____________XXX_MI
-${COR1}________________.XX.MI____________XXX.MII
-${COR1}________________XXI///____________XXII_///
-${COR1}_______________/////______________////   KELZER-X
+${COR1}_______________*XXXXXM.        .MXXXX.*MM
+${COR1}________________XXXXM*          .MXXx.*MMII
+${COR1}________________.XXXM*           .MXXx.*MM
+${COR1}________________.XX.M*            .MXX*.MI
+${COR1}________________.XX.M.            XXX_MI
+${COR1}                .XX.MI.           XXX.MII
+${COR1}                XXI///            XXII_///
+${COR1}               /////              ////   KELZER-X
 		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}VERSÃO : ${COR0}1.0
 		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}SCRIPT CRIADO POR: ${COR0}Gabriel Kelzer
 		${COR2}
