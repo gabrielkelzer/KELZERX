@@ -51,7 +51,8 @@ criar_apk() {
 		if [[ "$RESPO" == SIM || "$RESPO" == sim || "$RESPO" == Sim ]]; then
 			echo "${COR2}[ ${COR4}:: ${COR2}]${COR2} MOVENDO O APK PARA MEMÓRIA INTERNA"
 			sleep 3;
-			mv ${NOME} /sdcard
+			cp -i ${NOME} /data/data/com.termux/files/home/storage/downloads
+
 			echo "${COR2}[ ${COR4}+ ${COR2}]${COR2} O APK FOI MOVIDO COM SUCESSO! ${COR2}[ ${COR4}+ ${COR2}]${COR2}"
 			echo ""
 		else
