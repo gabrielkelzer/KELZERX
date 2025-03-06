@@ -170,7 +170,7 @@ sobre_banner() {
 		${COR1}		${COR0}Versão:${COR2} 1.0
 		${COR1}	        ${COR0}Script criado por: ${COR2}Gabriel Kelzer
 		${COR1}
-		${COR1} ${COR6}Autor ${COR3}   :  ${COR5}Gabriel Kelzer ${COR0}[ ${COR3}Gabrielkelzerofc ${COR0}]
+		${COR1} ${COR6}Autor ${COR3}   :  ${COR5}Gabriel Kelzer ${COR0}[ ${COR3}ytgabrielkelzer ${COR0}]
 		${COR1} ${COR6}Github ${COR3}  :  ${COR5}https://github.com/gabrielkelzer
 		${COR1} ${COR6}Facebook ${COR3}:  ${COR5}Gabriel Kelzer
 		${COR1} ${COR6}Instagram ${COR3}:  ${COR5}@ytgabrielkelzer
