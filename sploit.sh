@@ -198,7 +198,7 @@ sobre_banner() {
 
 	EOF
 
-	read -p "${COR6}[${COR0} - ${COR6}]${COR2} SELECIONE UMA OPÇÃO: ${COR0}" RESP2
+	read -p "${COR2} ESCOLHA UMA DAS OPÇÕES ACIMA: ${COR0}" RESP2
 	echo ""
 	case $RESP2 in
 		0 | 00)
