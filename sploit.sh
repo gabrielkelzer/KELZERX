@@ -243,12 +243,12 @@ ${COR1}                .XX.M.            XXX_MI
 ${COR1}                .XX.MI.           XXX.MII
 ${COR1}                XXI///            XXII_///
 ${COR1}               /////              ////   KELZER-X
-		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}VERSÃO : ${COR0}1.0
-		${COR2}			${COR2}[ ${COR4}+ ${COR2}] ${COR2}SCRIPT CRIADO POR: ${COR0}Gabriel Kelzer
+		${COR2}			${COR0}[ ${COR4}+ ${COR0}] ${COR2}VERSÃO : ${COR0}1.0
+		${COR2}			${COR0}[ ${COR4}+ ${COR0}] ${COR2}SCRIPT CRIADO POR: ${COR0}Gabriel Kelzer
 		${COR2}
 		${COR2}
 		${COR2}
-		${COR2}[ ${COR4}++${COR2} ]${COR2} ESCOLHA UMA DAS OPÇÕES ABAIXO PARA PROSSEGUIR: ${COR2}[ ${COR4}++ ${COR2}]${COR2}
+		${COR0}[ ${COR4}++${COR0} ]${COR2} ESCOLHA UMA DAS OPÇÕES ABAIXO PARA PROSSEGUIR: ${COR0}[ ${COR4}++ ${COR0}]
 
 		 ${COR4}01 ${COR0}-${COR2} CRIAR UMA PAYLOAD COM O METASPLOIT
 		 ${COR4}02 ${COR0}-${COR2} INFECTAR APLICATIVOS ORIGINAIS 
