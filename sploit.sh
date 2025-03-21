@@ -260,7 +260,7 @@ ${COR1}               /////              ////   KELZER-X
 	EOF
 
 	echo ""
-	read -p "${COR2}[ ${COR4}+ ${COR2}]${COR2} SELECIONE A OPÇÃO: ${COR0}" OPCAO
+	read -p "${COR2} ツ - DIGITE UM COMANDO: ${COR0}" OPCAO
 		echo ""
         	case $OPCAO in
                 	1 | 01)
