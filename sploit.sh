@@ -174,7 +174,7 @@ sobre_banner() {
 		${COR1} ${COR6}Github ${COR3}  :  ${COR5}https://github.com/gabrielkelzer
 		${COR1} ${COR6}Facebook ${COR3}:  ${COR5}Gabriel Kelzer
 		${COR1} ${COR6}Instagram ${COR3}:  ${COR5}@ytgabrielkelzer
-		${COR1} ${COR6}Versão ${COR3}  :  ${COR5}1.0
+		${COR1}
 		${COR1}
 
 		${COR0}	                ${FUND} ATENÇÃO:${RESE}
