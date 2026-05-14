@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LINK_DA_IMAGEM_AQUI" width="100%">
+  <img src="https://github.com/gabrielkelzer/KELZERX/blob/main/Screenshot_20260514_021558_Termux.jpg" width="100%">
 </p>
 
 # 📌 Sobre o Kelzer-X
